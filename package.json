@@ -1,0 +1,23 @@
+{
+  "name": "alexa-random-warcraft-2-buildings",
+  "version": "1.0.0",
+  "description": "random warcraft 2 buildings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doobix/alexa-random-warcraft-2-buildings.git"
+  },
+  "author": "doobix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doobix/alexa-random-warcraft-2-buildings/issues"
+  },
+  "homepage": "https://github.com/doobix/alexa-random-warcraft-2-buildings#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "see-warcraft-2": "0.0.2"
+  }
+}
